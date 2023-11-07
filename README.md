@@ -1,0 +1,1 @@
+# typescript-all-project-Q1
